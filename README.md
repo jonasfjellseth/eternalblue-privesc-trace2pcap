@@ -1,4 +1,4 @@
-# 🌐 Oppgave 8 — EternalBlue, nettverksspor & analyse
+# 🌐 EternalBlue, nettverksspor & analyse
 
 ## 📌 Formål
 Dette prosjektet dokumenterer en laboratorieøvelse der jeg:
